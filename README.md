@@ -5,4 +5,4 @@
 - 🔭 Right now, I am working on Natural Language Processing research at UCCS
 - 🌱 Currently, I am learning about Retrieval-Augmented Generation and the role of verification & validation in software
 - 💻 I am familiar with Python, Java, C, and some assembly
-- 📫 You can reach me: here on GitHub [@zoefing](https://github.com/zoefing), on [LinkedIn](www.linkedin.com/in/zoefingleton) or via email at zoe.fingleton@gmail.com
+- 📫 You can reach me: here on GitHub [@zoefing](https://github.com/zoefing), on [LinkedIn](https://www.linkedin.com/in/zoefingleton) or via email at zoe.fingleton@gmail.com
